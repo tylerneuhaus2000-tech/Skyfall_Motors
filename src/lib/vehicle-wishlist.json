@@ -1,0 +1,912 @@
+[
+  {
+    "group": "BMW",
+    "name": "BMW M3 E30",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M3 E36",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M3 E46",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M3 GTR E46",
+    "requestedPriceDiamonds": 95
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M3 E92",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M5",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M5 E60",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW M8",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW i8",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW Z4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW X5",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "BMW",
+    "name": "BMW X6",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz 190E",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz C63 AMG",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-AMG C63 S",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz E63 AMG",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-AMG GT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-AMG GT R",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-AMG GT Black Series",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz S-Class",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz G-Class / G63",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz SLS AMG",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mercedes-Benz / Mercedes-AMG",
+    "name": "Mercedes-Benz CLK GTR",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi A4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi A6",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi RS3",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi RS4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi RS5",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi RS6",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi RS7",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi R8",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi TT RS",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Audi",
+    "name": "Audi Quattro",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Golf GTI",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Golf R",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Golf Mk2",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Golf Mk4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Golf Mk7",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Passat",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Scirocco",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen Beetle",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Volkswagen",
+    "name": "Volkswagen T1 / T2 Bus",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche 911 Carrera",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche 911 Turbo S",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche 911 GT3",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche 911 GT3 RS",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche 911 GT2 RS",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche 918 Spyder",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche Carrera GT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche Cayman GT4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche Taycan",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche Panamera",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Porsche",
+    "name": "Porsche Cayenne",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari F40",
+    "requestedPriceDiamonds": 110
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari F50",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari Enzo",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari 458 Italia",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari 488 GTB",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari 488 Pista",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari 296 GTB",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari 296 GT3",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari F8 Tributo",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari LaFerrari",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari SF90 Stradale",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari 812 Superfast",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ferrari",
+    "name": "Ferrari Testarossa",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Countach",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Diablo",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Murciélago",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Gallardo",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Huracán",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Huracán EVO",
+    "requestedPriceDiamonds": 85
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Huracán STO",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Aventador",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Aventador SVJ",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Revuelto",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Urus",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Sian",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Lamborghini",
+    "name": "Lamborghini Veneno",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren F1",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren 570S",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren 650S",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren 720S",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren 765LT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren P1",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren Senna",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "McLaren",
+    "name": "McLaren Artura",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Bugatti",
+    "name": "Bugatti Veyron",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Bugatti",
+    "name": "Bugatti Chiron",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Bugatti",
+    "name": "Bugatti Chiron Super Sport",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Bugatti",
+    "name": "Bugatti Divo",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Bugatti",
+    "name": "Bugatti Bolide",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Bugatti",
+    "name": "Bugatti Tourbillon",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg CCX",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg Agera",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg Agera RS",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg One:1",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg Regera",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg Jesko",
+    "requestedPriceDiamonds": 192
+  },
+  {
+    "group": "Koenigsegg",
+    "name": "Koenigsegg Gemera",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin DB9",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin DB11",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin DBS",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin Vantage",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin One-77",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin Vulcan",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Aston Martin",
+    "name": "Aston Martin Valkyrie",
+    "requestedPriceDiamonds": 145
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Skyline GT-R R32",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Skyline GT-R R33",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Skyline GT-R R34",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan GT-R R35",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan 350Z",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan 370Z",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Z",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Silvia S13",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Silvia S14",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Nissan",
+    "name": "Nissan Silvia S15",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota Supra Mk3",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota Supra Mk4",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota GR Supra Mk5",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota AE86",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota GT86",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota GR86",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota Celica",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota GR Yaris",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Toyota",
+    "name": "Toyota Land Cruiser",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mazda",
+    "name": "Mazda RX-7 FC",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mazda",
+    "name": "Mazda RX-7 FD",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mazda",
+    "name": "Mazda RX-8",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mazda",
+    "name": "Mazda MX-5 Miata",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Mazda",
+    "name": "Mazda 787B",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Honda / Acura",
+    "name": "Honda Civic Type R",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Honda / Acura",
+    "name": "Honda Civic EK9",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Honda / Acura",
+    "name": "Honda S2000",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Honda / Acura",
+    "name": "Honda NSX",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Honda / Acura",
+    "name": "Acura NSX",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Honda / Acura",
+    "name": "Honda Integra Type R",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Subaru Impreza WRX STI",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Subaru BRZ",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Mitsubishi Lancer Evolution VI",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Mitsubishi Lancer Evolution VIII",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Mitsubishi Lancer Evolution IX",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Mitsubishi Lancer Evolution X",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Mitsubishi Eclipse",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Subaru / Mitsubishi",
+    "name": "Mitsubishi 3000GT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford Mustang GT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford Mustang Shelby GT500",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford Mustang Dark Horse",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford GT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford GT40",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford Focus RS",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford Fiesta ST",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford F-150",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford F-150 Raptor",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Ford",
+    "name": "Ford Bronco",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Chevrolet Camaro",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Chevrolet Camaro ZL1",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Chevrolet Corvette C6",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Chevrolet Corvette C7",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Chevrolet Corvette C8",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Chevrolet Corvette ZR1",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Dodge Challenger",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Dodge Challenger Hellcat",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Dodge Charger",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Dodge Charger Hellcat",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Chevrolet / Dodge",
+    "name": "Dodge Viper",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Pagani Zonda",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Pagani Huayra",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Pagani Utopia",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Rimac Nevera",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Lotus Elise",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Lotus Exige",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Lotus Emira",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Lotus Evija",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Lexus LFA",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Lexus LC500",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Jaguar F-Type",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Jaguar XJ220",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Bentley Continental GT",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Rolls-Royce Phantom",
+    "requestedPriceDiamonds": null
+  },
+  {
+    "group": "Weitere Sportwagen und Hypercars",
+    "name": "Rolls-Royce Cullinan",
+    "requestedPriceDiamonds": null
+  }
+]

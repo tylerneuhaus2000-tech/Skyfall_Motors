@@ -1,0 +1,11 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // All access is mediated by the Next.js server and Firebase Admin SDK.
+    // Admin SDK calls bypass these rules, so server routes must authorize every action.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
